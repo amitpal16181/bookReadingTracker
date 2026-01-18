@@ -1,4 +1,4 @@
-# Calendar Progress Tracker
+# Book Reading Tracker
 
 A modern, comprehensive web application designed to help book lovers track their reading progress, manage their book collection, and visualize their reading habits through a calendar heatmap.
 
